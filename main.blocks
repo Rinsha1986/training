@@ -1,0 +1,35 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="r{7hcz%J@kjVtF-/QVn3">Player</variable><variable type="KIND_SpriteKind" id="`2}4fc3CTAl/2@)X*G|3">Projectile</variable><variable type="KIND_SpriteKind" id="?z#.N.!JN*@([YM%{#Un">Food</variable><variable type="KIND_SpriteKind" id="Px|FQ5o`8o]C:Q|gito`">Enemy</variable><variable id="`G7T*299InD#pwNbw4w.">mySprite</variable><variable id="wXy^DzN`2`m^(,R2a^!$">mySprite2</variable></variables><block type="pxt-on-start" id="+k7T.#r:f~ca^,OU1LEb" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="}%jN1P^]-R`_Gb}7Crd4"><field name="VAR" id="`G7T*299InD#pwNbw4w.">mySprite</field><value name="VALUE"><shadow type="math_number" id="7MUJs0AS=AcMBR$VaaF_"><field name="NUM">0</field></shadow></value></block></statement></block><block type="spritescreate" id=".b?@/]9I*ah^Z7p{eTAI" disabled="true" x="310" y="90"><value name="img"><shadow type="screen_image_picker" id="b~VNTbj!{J(jYg%$XLDO" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"b~VNTbj!{J(jYg%$XLDO"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="??$;WwV(NF8jIt,pkIxU" disabled="true"><field name="MEMBER">Player</field></shadow></value></block><block type="variables_set" id="f^.da.,PvYNhit~x)1GJ" disabled="true" x="73" y="151"><field name="VAR" id="wXy^DzN`2`m^(,R2a^!$">mySprite2</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="-?pDyF]_jIxW!f%I}KE:" disabled="true"><value name="img"><shadow type="screen_image_picker" id=")p_ORXXaoc;^-LAOV0ew" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":")p_ORXXaoc;^-LAOV0ew"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="Kmh*0n5TcuF@i6];;5D2" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block></xml>
